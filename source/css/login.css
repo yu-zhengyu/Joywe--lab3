@@ -1,0 +1,74 @@
+body{
+	background-image: url(../images/background.gif);
+}
+
+#content{
+	width: 700px;
+	/*text-align: center;*/
+	margin: 0 auto;
+}
+
+img.header_img{
+	margin-top: 15px;
+}
+
+div.item
+{
+	width: 220px;
+	margin: 0 auto;
+}
+
+div.login
+{
+	width: 350px;
+	margin: 0 auto;
+}
+
+
+a.register
+{
+	float: right;
+	padding-top: 5px;
+	font-size: 15px;
+}
+
+div.item-submit
+{
+	width: 328px;
+	margin:0 auto;
+}
+
+div.item-submit-reg
+{
+	width: 220px;
+	height: 30px;
+	/*border: 2px black solid;*/
+	margin: 0 auto;
+}
+
+div.item-submit-reg .btn 
+{
+	float: right;
+}
+
+div .aside{
+	width: 220px;
+	/*border: 2px black solid;*/
+	margin:0 auto;
+}
+
+div .aside a{
+	margin-top:10px;
+	float: right;
+}
+
+form{
+	margin:0;
+}
+
+
+input.new-input{
+	background-image: url(../images/input_background.png);
+	background-size: 220px 30px;
+	border-bottom-right-radius: 5px;
+}

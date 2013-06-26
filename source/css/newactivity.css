@@ -1,0 +1,63 @@
+section.new_activity{
+	width: 598px;
+	background-image: url(../images/friend.png);
+	background-size: 613px auto;
+	box-shadow: 3px 3px 3px #888888;
+}
+
+div.newactivity_banner{
+	height: 45px;
+	background-image: url(../images/banner.png);
+}
+
+div.newactivity_banner p{
+	padding-top:10px;
+    width: 200px;
+    color: grey;
+    font-weight: bold;
+    font-size: 20pt;
+    margin:0 auto;
+}
+
+td.activity_tag,td.submit_left{
+	font-size: 16pt;
+	color: grey;
+	font-weight: bold;
+	padding-left: 80px;
+}
+
+td.activity_tag{
+	padding-left: 54px;
+}
+
+input.activity_content{
+	width: 300px;
+}
+
+div.clear{
+	clear: both;
+}
+
+div.newactivity_button{
+	width: 160px;
+	margin:0 auto;
+	padding-bottom: 15px;
+}
+
+input.friend_choice{
+	float: left;
+	line-height: 60px;
+}
+
+textarea.textarea{
+	width: 300px;
+}
+
+table.makeactivity_table{
+	margin-top: 20px;
+}
+
+select.year,select.month,select.day,select.time{
+	width: 72px;
+	margin-right: 4px;
+}

@@ -1,0 +1,72 @@
+/*section{
+	width: 613px;
+	height: 500px;
+	background-image: url(../images/profile_background.png);
+	background-size: 613px 500px;
+}
+*/
+
+
+
+form{
+	padding-top: 1px;
+	width: 350px;
+	margin:0 auto;
+}
+
+/*td{
+	font-size: 10pt;
+	padding-top: 10px;
+	padding-right: 0;
+}*/
+
+
+td.editTag, td.editContent,td.password_tag{
+	font-size: 10pt;
+	padding-top: 8px;
+	padding-bottom: 0;
+	color: grey;
+	font-weight: bold;
+}
+
+td.editTag{
+	width: 100px;
+}
+
+div.profile_banner,div.password_banner{
+	height: 45px;
+	background-image: url(../images/banner.png);
+}
+
+div.profile_banner p,div.password_banner p{
+	padding-top:10px;
+    width: 200px;
+    color: grey;
+    font-weight: bold;
+    font-size: 20pt;
+    margin:0 auto;
+}
+
+table.profile_table,table.password_table{
+	margin-top:20px;
+}
+
+div.profile_button,div.password_button{
+    width: 160px;
+    margin:0 auto;
+}
+
+div.password_content{
+    width: 598px;
+    height: 260px;
+    background-image: url(../images/profile_background.png);
+    background-size: 613px 260px;
+}
+
+div.profile_content{
+	width: 598px;
+    height: 480px;
+    margin: 0 auto;
+    background-image: url(../images/profile_background.png);
+    background-size: 613px 480px;
+}
